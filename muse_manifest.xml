@@ -1,0 +1,53 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huexhen.github.io" resolutions="1x" timestamp="1556187483591">
+  <folder name="css">
+    <file name="site_global.css" crc="4120824252"/>
+    <file name="index.css" crc="4151333834" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="3722.jpg" crc="3986814906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="t-black.png" crc="4290079296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="4286709600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u960-6.png" crc="3868329091" ref="index"/>
+    <file name="5.png" crc="58972944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u991-6.png" crc="3997147133" ref="index"/>
+    <file name="u1030-6.png" crc="437418708" ref="index"/>
+    <file name="107-1概念藝術_都市計畫2版.jpg" crc="130459962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u159.png" crc="226141138" ref="index"/>
+    <file name="u159-a.png" crc="4054232024" ref="index"/>
+    <file name="u210.png" crc="3941642578" ref="index"/>
+    <file name="u210-a.png" crc="3915482366" ref="index"/>
+    <file name="solitary series.png" crc="363049202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0dd520eb-679b-4790-bb0e-e3b02b34b6d8.jpg" crc="3952059362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="073dbd69-d3a6-47b2-b90d-d0d9e6cf2f53.jpg" crc="428436187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u712-21.png" crc="493636101" ref="index"/>
+  </folder>
+  <file name="index.html" crc="417374258" seo="true" mt="1555766948704" redirect="true"/>
+</manifest>
